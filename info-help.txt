@@ -1,4 +1,4 @@
 fg
-
+# praktika 2
 fi
 
